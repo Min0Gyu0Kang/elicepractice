@@ -1,4 +1,0 @@
--- Active: 1716294045220@@172.30.1.254@80
-CREATE DATABASE shared_kickboard;
-
-SHOW DATABASES;
